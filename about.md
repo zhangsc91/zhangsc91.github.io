@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Math PhD candidate at Stanford University. I started this blog to write about things I learn and think about outside pure math. Expect to see technical non-math, or non-technical math posts!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You might also know me as Sicong Zhang, or 张思聪.
+
+Together with a team of friends, I translate educational math videos [(3Blue1Brown)](https://www.3blue1brown.com/) into [Chinese](https://space.bilibili.com/88461692). We have close to 0.5M subscribers!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhangsc91@gmail.com](mailto:zhangsc91@gmail)
