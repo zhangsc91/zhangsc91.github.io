@@ -3,7 +3,13 @@ layout: post
 title: New post from github.com
 ---
 
-Create a new post straight from github.com. Don't forget the header! "--- layout: post, title: [insert title] ---"
+Create a new post straight from github.com. 
+
+Don't forget the header! 
+
+"--- layout: post, title: [insert title] ---"
+
+Also don't forget ".md" extension.. Uhh
 
 ## Header 2
 * bullet 1
