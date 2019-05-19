@@ -2,6 +2,7 @@
 layout: post
 title: New post from github.com
 tags: [testing]
+comments: true
 ---
 
 Create a new post straight from github.com. 
@@ -23,3 +24,6 @@ Also don't forget ".md" extension!
 
 ## Header 3
 $$\exp(-\frac{x^2}{2\sigma^2})$$ is the normal distribution (unnormalized).
+
+----
+Now I can turn on comments by adding "comments: true" to the front matter!
