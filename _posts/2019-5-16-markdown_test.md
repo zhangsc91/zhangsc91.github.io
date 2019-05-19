@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second post
-categories: [testing, blog]
+categories: [testing]
 ---
 
 Testing what the second post looks like.

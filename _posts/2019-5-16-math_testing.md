@@ -1,9 +1,17 @@
 ---
 layout: post
 title: Welcome to my blog!
+tags: [testing]
 ---
 
-Inline math testing: $$ \int_{i=1}^n a_i b_i $$
+Inline math testing: $ \int_{i=1}^n a_i b_i $
+This is not a new paragraph.
+
+This is a new paragraph (just like LaTex).
+
+In this new configuration, single dollar signs are for inline math, double dollar signs are for display math, just like Latex. Actual dollar sign needs a backslash: \$.
+
+Speaking of backslash: \\
 
 Display math testing:
 
@@ -24,7 +32,11 @@ $$
 \end{align*}
 $$
 
-Image testing:
-![Cascades]({{ site.baseurl }}//images/cascades_clean.svg)
+Image in a link: 
+[Cascades]({{ site.baseurl }}/images/cascades_clean.svg)
 
-[<img src="{{ site.baseurl }}/images/cascades_clean.svg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
+Literal Url (same image): <https://zhangsc91.github.io/images/cascades_clean.svg>
+
+Embedded image (best to start a new paragraph): 
+
+<img src="{{ site.baseurl }}/images/cascades_clean.svg" style="width: 400px;"/>
