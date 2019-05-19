@@ -1,4 +1,9 @@
-Create a new post straight from github.com
+---
+layout: post
+title: New post from github.com
+---
+
+Create a new post straight from github.com. Don't forget the header! "--- layout: post, title: [insert title] ---"
 
 ## Header 2
 * bullet 1
