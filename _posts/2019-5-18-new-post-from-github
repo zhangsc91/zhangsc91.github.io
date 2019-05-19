@@ -1,0 +1,10 @@
+Create a new post straight from github.com
+
+## Header 2
+* bullet 1
+* bullet 2
+  *subbullet 1
+  -subbullet 2
+  
+## Header 3
+$$\exp(-\frac{x^2}{2\sigma^2})$$ is the normal distribution (unnormalized).
